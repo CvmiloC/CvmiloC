@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+👨‍💻 Front-end Developer.<br>📘 Software Development Student.<br>☄️ CTO & CoFounder at @MiuTab.<br>📝 Member of the research group at the Universitaria Agustiniana.
 
 
 
@@ -12,7 +12,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
